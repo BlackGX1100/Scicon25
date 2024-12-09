@@ -37,7 +37,7 @@ p {
 
 /* Navigation Bar */
 nav {
-    background-color: #1483d0;
+    background-color: #f4a261; /* Light orange */
     padding: 10px 0;
     position: sticky;
     top: 0;
@@ -56,7 +56,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #1483d0;
+    background-color: #e8924e; /* Darker shade of orange */
 }
 
 /* Hero Section (Home Page) */
@@ -82,7 +82,7 @@ nav a:hover {
 }
 
 .hero button {
-    background-color: #1483d0;
+    background-color: #f4a261; /* Light orange */
     color: white;
     padding: 12px 30px;
     border: none;
@@ -92,7 +92,7 @@ nav a:hover {
 }
 
 .hero button:hover {
-    background-color: #1483d0;
+    background-color: #e8924e; /* Darker shade of orange */
 }
 
 /* Main Content */
@@ -173,7 +173,7 @@ input {
 }
 
 button {
-    background-color: #1f8ef1;
+    background-color: #f4a261; /* Light orange */
     color: white;
     padding: 10px 20px;
     border: none;
@@ -183,7 +183,7 @@ button {
 }
 
 button:hover {
-    background-color: #1483d0;
+    background-color: #e8924e; /* Darker shade of orange */
 }
 
 #message {
