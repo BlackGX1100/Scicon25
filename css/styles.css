@@ -37,7 +37,7 @@ p {
 
 /* Navigation Bar */
 nav {
-    background-color: #f1811f;
+    background-color: #1483d0;
     padding: 10px 0;
     position: sticky;
     top: 0;
@@ -82,7 +82,7 @@ nav a:hover {
 }
 
 .hero button {
-    background-color: #1f8ef1;
+    background-color: #1483d0;
     color: white;
     padding: 12px 30px;
     border: none;
