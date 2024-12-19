@@ -200,3 +200,9 @@ button:hover {
 .no-bullets li {
     margin-bottom: 10px; /* Optional: Adds space between list items */
 }
+
+/* Dna size */
+.half-size {
+    width: 50%;
+    height: auto; /* Maintain aspect ratio */
+}
